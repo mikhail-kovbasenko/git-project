@@ -1,3 +1,1 @@
 Hello, World!
-I am Git
-My name is Mikhail
